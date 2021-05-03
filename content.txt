@@ -1,1 +1,4 @@
+
 content in clear-branch content.txt
+fixed
+contetn in cherry-brabch
